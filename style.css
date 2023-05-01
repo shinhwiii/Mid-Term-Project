@@ -1,6 +1,14 @@
 body {
-    color : white;
+    color : rgba(255, 255, 255, 0.887);
+    margin: 200px;
 }
 .nonunderline {
     text-decoration : none
+}
+h1 {
+    text-align : center;
+    color :rgba(255, 252, 252, 0.787)
+}
+ul {
+    color :rgba(212, 210, 210, 0.754)
 }
